@@ -1,0 +1,7 @@
+
+.gitingore
+node_modules/
+
+jwt-data
+
+jwt-data.tmp
